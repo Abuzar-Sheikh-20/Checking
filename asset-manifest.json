@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/css/main.131953b2.css",
-    "main.js": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/js/main.d2febf09.js",
+    "main.js": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/js/main.12d2a2b9.js",
     "static/js/845.e61d76ce.chunk.js": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/js/845.e61d76ce.chunk.js",
     "index.html": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/index.html",
     "main.131953b2.css.map": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/css/main.131953b2.css.map",
-    "main.d2febf09.js.map": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/js/main.d2febf09.js.map",
+    "main.12d2a2b9.js.map": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/js/main.12d2a2b9.js.map",
     "845.e61d76ce.chunk.js.map": "/TextUtils---Word-Counter-Case-convertor-Extra-spaces-remover/static/js/845.e61d76ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.131953b2.css",
-    "static/js/main.d2febf09.js"
+    "static/js/main.12d2a2b9.js"
   ]
 }
